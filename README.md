@@ -1,10 +1,10 @@
 # Kredi hesaplama
 Çeşitli kredi ödeme biçimlerini hesaplamamızı hesaplayan bir mini api projesidir.
 
-##Kredi Türleri
+## Kredi Türleri
 Kredi hesaplama formülleri servislerin içerisine bulunmaktadır.
 
-## Eşit Ödemeli 
+### Eşit Ödemeli 
 Eşit ödemeli kredilerde, kredi vadesi boyunca her ay aynı tutarda ödeme yapılır.
 Bu ödeme, hem anapara hem de faiz ödemelerini içerir.
 İlk başta faiz ödemeleri daha yüksekken, zamanla anapara ödemeleri artar.
